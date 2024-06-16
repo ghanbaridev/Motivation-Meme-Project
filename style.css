@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+}
+
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 80px;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.playwrite-nl-a {
+    font-family: "Playwrite NL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    text-transform: capitalize;
+}
